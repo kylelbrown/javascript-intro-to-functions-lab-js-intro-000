@@ -7,7 +7,10 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log('HELLO')
+  console.log('HELLO') {
+    return "Yes INDEED!"
+  }
+  
 }
 
 function logWhisper(string) {
